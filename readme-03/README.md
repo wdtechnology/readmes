@@ -9,7 +9,7 @@
 Sua bio aqui...<br><br><br>
 
 
-# <b>Objetivo Proissional</b>
+# <b>Objetivo Profissional</b>
 Seus objetivos profissionais aqui...<br><br><br>
 
 
