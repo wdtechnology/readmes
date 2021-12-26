@@ -31,7 +31,7 @@ _Nome da Empresa Aqui_ / 2019-2020<br>
 ✔ HTML / CSS / JS<br>
 ✔ UI-UX Design / Adobe-XD<br>
 
-_Projeto desenvido:_ <b>Bikcraft</b>
+_Projeto desenvolvido:_ <b>Bikcraft</b>
 
 ### <b>B7Web</b>
 ### _Front-end_ / _Back-end_
@@ -39,7 +39,7 @@ _Projeto desenvido:_ <b>Bikcraft</b>
 ✔ NodeJS<br>
 ✔ PHP / MySQL<br>
 
-_Projeto desenvido:_ <b>OLX - Dashboard</b><br><br><br>
+_Projeto desenvolvido:_ <b>OLX - Dashboard</b><br><br><br>
 
 
 ## <b>Minhas Habilidades</b>
