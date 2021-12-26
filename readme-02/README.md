@@ -2,7 +2,7 @@
 
 
 # <b>[Diogo Realles](https://www.fb.com/softwarealles)</b>
-Olá sou Diogo Realles 🇧🇷 residente atualmente em São Paulo - SP, estou estudando UI Design e Front-End.<br>
+Olá sou Diogo Realles residente atualmente em São Paulo - SP 🇧🇷 , estou estudando UI Design e Front-End.<br>
 Curto jogar video-game 🎮, desenhar casualmente ✏, pai de pet 🐶, o que mais gosto é de mexer no computador 💻 e criar design para a comunidade.<br><br><br>
 
 
